@@ -24,7 +24,7 @@ messenger = WhatsApp()
 messenger.find_user('mobile')
 messenger.send_video('path-to-video')
 
-# To send videos
+# To send documents
 from alright import WhatsApp
 messenger = WhatsApp()
 messenger.find_user('mobile')
